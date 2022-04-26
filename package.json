@@ -9,5 +9,8 @@
     "dev": "nodemon server.js"
   },
   "author": "badiru",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
